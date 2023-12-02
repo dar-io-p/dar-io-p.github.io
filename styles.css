@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #1c1d1f;
+  }
+
+  h1 {
+    color: rgb(255, 255, 255);
+  }
+  h2 {
+      color: rgb(125, 125, 125)
+  }
+
+  p {
+    color: #e5e5e5;
+  }
+
+  a {
+      color: rgb(82, 188, 210);
+  }
+  .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+  }   
+  .download-container a {
+    display: block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    width: 50%;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
